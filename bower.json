@@ -1,0 +1,25 @@
+{
+  "name": "gelo.javonitalla.xyz",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "modernizr": "~2.8.3",
+    "jquery": "~1.11.0",
+    "Processing.js": "~1.4.8",
+    "normalize.css": "~3.0.0"
+  },
+  "exportsOverride": {
+    "normalize.css" : {
+      "styles": "normalize.css"
+    },
+    "jquery" : {
+      "js" : "dist/jquery.js"
+    },
+    "Processing.js" : {
+      "js" : "processing.js"
+    },
+    "modernizr" : {
+      "js" : "modernizr.js"
+    }
+  }
+}
