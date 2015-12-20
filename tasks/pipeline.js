@@ -16,12 +16,12 @@ var tmpPath = '.tmp/public/';
 // (if you're using LESS with the built-in default config, you'll want
 //  to change `assets/styles/importer.less` instead.)
 var cssFilesToInject = [
-  'styles/**/*.css',
-
   'linker/styles/normalize.css/normalize.css',
 
   // Dependencies like bootstrap are brought in here
-  'linker/styles/*/*.css'
+  'linker/styles/*/*.css',
+
+  'styles/**/*.css'
 ];
 
 
@@ -32,11 +32,11 @@ var jsFilesToInject = [
   // Load sails.io before everything else
   'js/dependencies/sails.io.js',
 
-  // Dependencies like jQuery, or Angular are brought in here
+  //Dependencies like jQuery, or Angular are brought in here
   'linker/js/*/*.js',
 
-  'js/vendor.js',
-  'js/main.js'
+  'js/*.js'
+
   // Use the "exclude" operator to ignore files
   // '!js/ignore/these/files/*.js'
 ];
