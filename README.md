@@ -1,12 +1,17 @@
 # personal-website
 
-Code base for my [personal website][website_url].
+Code base for my [personal website][website_url]. Forked from [carlo.io](https://github.com/carloe/carlo.io) and ported to [sailsjs][sailsjs_url].
 
 [![Screenshot][screenshot]][website_url]
 
-Forked from [carlo.io](https://github.com/carloe/carlo.io) and ported to [sailsjs][sailsjs_url]. The application is ready to use and can be installed to Heroku in one-click.
+##Deployment
+
+The application is ready to use and can be installed to Heroku in one-click.
 
 [![Deploy][heroku_button]][heroku_deploy]
+
+##License
+Creative Commons: [Attribution NonCommercial ShareAlike 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [website_url]: http://gelo.javonitalla.xyz/
 [heroku_button]: https://www.herokucdn.com/deploy/button.png
