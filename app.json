@@ -1,0 +1,10 @@
+{
+  "name": "personal-website",
+  "description": "Open-source template for your personal website",
+  "repository": "https://github.com/gelojavonitalla/personal-website",
+  "keywords": ["sailjs", "heroku", "personal website", "portfolio"],
+  "website": "http://gelo.javonitalla.xyz",
+  "addons": [
+    "logentries"
+  ]
+}

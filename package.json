@@ -1,9 +1,9 @@
 {
-  "name": "personal-page",
+  "name": "personal-website",
   "private": true,
-  "version": "0.0.0",
-  "description": "a Sails application",
-  "keywords": [],
+  "version": "0.1.0",
+  "description": "A ready to deploy sailsjs application for your personal website.",
+  "keywords": ["sailjs", "heroku", "personal website", "portfolio"],
   "dependencies": {
     "ejs": "~0.8.4",
     "include-all": "~0.1.3",
@@ -33,8 +33,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/personal-page.git"
+    "url": "https://github.com/gelojavonitalla/personal-website.git"
   },
   "author": "Angelo Javonitalla",
-  "license": ""
+  "license": "Creative Commons"
 }
