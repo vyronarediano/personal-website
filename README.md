@@ -1,10 +1,10 @@
 # personal-website
 
-Code base for my [personal website][website_url]. 
+Code base for my [personal website][website_url].
 
 [![Screenshot][screenshot]][website_url]
 
-Forked from [carlo.io](https://github.com/carloe/carlo.io) and ported to [sailsjs][sailsjs_url]. The application is ready to use and can be installed to Heroku in one-click
+Forked from [carlo.io](https://github.com/carloe/carlo.io) and ported to [sailsjs][sailsjs_url]. The application is ready to use and can be installed to Heroku in one-click.
 
 [![Deploy][heroku_button]][heroku_deploy]
 
